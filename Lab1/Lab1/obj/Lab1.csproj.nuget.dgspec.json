@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pathipat\\OOP\\Lab1\\Lab1\\Lab1.csproj": {}
+    "D:\\Pathipat\\IN401105\\labOOPCalculator\\Lab1\\Lab1\\Lab1.csproj": {}
   },
   "projects": {
-    "D:\\Pathipat\\OOP\\Lab1\\Lab1\\Lab1.csproj": {
+    "D:\\Pathipat\\IN401105\\labOOPCalculator\\Lab1\\Lab1\\Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pathipat\\OOP\\Lab1\\Lab1\\Lab1.csproj",
+        "projectUniqueName": "D:\\Pathipat\\IN401105\\labOOPCalculator\\Lab1\\Lab1\\Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "D:\\Pathipat\\OOP\\Lab1\\Lab1\\Lab1.csproj",
+        "projectPath": "D:\\Pathipat\\IN401105\\labOOPCalculator\\Lab1\\Lab1\\Lab1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Pathipat\\OOP\\Lab1\\Lab1\\obj\\",
+        "outputPath": "D:\\Pathipat\\IN401105\\labOOPCalculator\\Lab1\\Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
