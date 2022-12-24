@@ -106,22 +106,22 @@ namespace Lab1
             {
                 num3 = num1 + num2;
                 
-                Display.Text = num3.ToString();
+                Display.Text = num3.ToString("#,##0");
             }//close +
             if (op == "-")
             {
                 num3 = num1 - num2;
-                Display.Text = num3.ToString();
+                Display.Text = num3.ToString("#,##0");
             }//close -
             if (op == "*")
             {
                 num3 = num1 * num2;
-                Display.Text = num3.ToString();
+                Display.Text = num3.ToString("#,##0");
             }//close *
             if (op == "/")
             {
                 num3 = num1 / num2;
-                Display.Text = num3.ToString();
+                Display.Text = num3.ToString("#,##0");
             }//close ÷
         }
 
