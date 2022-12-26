@@ -48,13 +48,14 @@
             this.bt1 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.Display = new System.Windows.Forms.TextBox();
+            this.Display1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.button1.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(380, 115);
+            this.button1.Location = new System.Drawing.Point(356, 138);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(63, 81);
             this.button1.TabIndex = 0;
@@ -66,7 +67,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(294, 90);
+            this.label1.Location = new System.Drawing.Point(270, 113);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(0, 54);
             this.label1.TabIndex = 4;
@@ -75,7 +76,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(501, 90);
+            this.label2.Location = new System.Drawing.Point(501, 35);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(0, 54);
             this.label2.TabIndex = 5;
@@ -84,7 +85,7 @@
             // 
             this.button2.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.button2.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button2.Location = new System.Drawing.Point(449, 115);
+            this.button2.Location = new System.Drawing.Point(425, 138);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(63, 81);
             this.button2.TabIndex = 6;
@@ -96,7 +97,7 @@
             // 
             this.button3.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.button3.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button3.Location = new System.Drawing.Point(380, 202);
+            this.button3.Location = new System.Drawing.Point(356, 225);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(63, 81);
             this.button3.TabIndex = 7;
@@ -108,7 +109,7 @@
             // 
             this.button4.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.button4.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button4.Location = new System.Drawing.Point(449, 202);
+            this.button4.Location = new System.Drawing.Point(425, 225);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(63, 81);
             this.button4.TabIndex = 8;
@@ -120,7 +121,7 @@
             // 
             this.bt7.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt7.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt7.Location = new System.Drawing.Point(47, 115);
+            this.bt7.Location = new System.Drawing.Point(23, 138);
             this.bt7.Name = "bt7";
             this.bt7.Size = new System.Drawing.Size(89, 81);
             this.bt7.TabIndex = 9;
@@ -132,7 +133,7 @@
             // 
             this.bt8.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt8.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt8.Location = new System.Drawing.Point(142, 115);
+            this.bt8.Location = new System.Drawing.Point(118, 138);
             this.bt8.Name = "bt8";
             this.bt8.Size = new System.Drawing.Size(89, 81);
             this.bt8.TabIndex = 10;
@@ -144,7 +145,7 @@
             // 
             this.bt9.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt9.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt9.Location = new System.Drawing.Point(237, 115);
+            this.bt9.Location = new System.Drawing.Point(213, 138);
             this.bt9.Name = "bt9";
             this.bt9.Size = new System.Drawing.Size(89, 81);
             this.bt9.TabIndex = 11;
@@ -156,7 +157,7 @@
             // 
             this.bt4.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt4.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt4.Location = new System.Drawing.Point(47, 202);
+            this.bt4.Location = new System.Drawing.Point(23, 225);
             this.bt4.Name = "bt4";
             this.bt4.Size = new System.Drawing.Size(89, 81);
             this.bt4.TabIndex = 12;
@@ -168,7 +169,7 @@
             // 
             this.bt5.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt5.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt5.Location = new System.Drawing.Point(142, 202);
+            this.bt5.Location = new System.Drawing.Point(118, 225);
             this.bt5.Name = "bt5";
             this.bt5.Size = new System.Drawing.Size(89, 81);
             this.bt5.TabIndex = 13;
@@ -180,7 +181,7 @@
             // 
             this.bt6.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt6.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt6.Location = new System.Drawing.Point(237, 202);
+            this.bt6.Location = new System.Drawing.Point(213, 225);
             this.bt6.Name = "bt6";
             this.bt6.Size = new System.Drawing.Size(89, 81);
             this.bt6.TabIndex = 14;
@@ -192,7 +193,7 @@
             // 
             this.button11.BackColor = System.Drawing.Color.Red;
             this.button11.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button11.Location = new System.Drawing.Point(237, 376);
+            this.button11.Location = new System.Drawing.Point(213, 399);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(89, 81);
             this.button11.TabIndex = 20;
@@ -204,7 +205,7 @@
             // 
             this.point.BackColor = System.Drawing.SystemColors.ControlDark;
             this.point.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.point.Location = new System.Drawing.Point(142, 376);
+            this.point.Location = new System.Drawing.Point(118, 399);
             this.point.Name = "point";
             this.point.Size = new System.Drawing.Size(89, 81);
             this.point.TabIndex = 19;
@@ -216,7 +217,7 @@
             // 
             this.bt0.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt0.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt0.Location = new System.Drawing.Point(47, 376);
+            this.bt0.Location = new System.Drawing.Point(23, 399);
             this.bt0.Name = "bt0";
             this.bt0.Size = new System.Drawing.Size(89, 81);
             this.bt0.TabIndex = 18;
@@ -228,7 +229,7 @@
             // 
             this.bt3.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt3.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt3.Location = new System.Drawing.Point(237, 289);
+            this.bt3.Location = new System.Drawing.Point(213, 312);
             this.bt3.Name = "bt3";
             this.bt3.Size = new System.Drawing.Size(89, 81);
             this.bt3.TabIndex = 17;
@@ -240,7 +241,7 @@
             // 
             this.bt2.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt2.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt2.Location = new System.Drawing.Point(142, 289);
+            this.bt2.Location = new System.Drawing.Point(118, 312);
             this.bt2.Name = "bt2";
             this.bt2.Size = new System.Drawing.Size(89, 81);
             this.bt2.TabIndex = 16;
@@ -252,7 +253,7 @@
             // 
             this.bt1.BackColor = System.Drawing.SystemColors.ControlDark;
             this.bt1.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.bt1.Location = new System.Drawing.Point(47, 289);
+            this.bt1.Location = new System.Drawing.Point(23, 312);
             this.bt1.Name = "bt1";
             this.bt1.Size = new System.Drawing.Size(89, 81);
             this.bt1.TabIndex = 15;
@@ -264,7 +265,7 @@
             // 
             this.button5.BackColor = System.Drawing.Color.LightGreen;
             this.button5.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button5.Location = new System.Drawing.Point(380, 289);
+            this.button5.Location = new System.Drawing.Point(356, 312);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(132, 159);
             this.button5.TabIndex = 21;
@@ -274,19 +275,30 @@
             // 
             // Display
             // 
-            this.Display.Font = new System.Drawing.Font("Ebrima", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.Display.Location = new System.Drawing.Point(47, 32);
+            this.Display.Font = new System.Drawing.Font("Ebrima", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Display.Location = new System.Drawing.Point(23, 55);
             this.Display.Multiline = true;
             this.Display.Name = "Display";
             this.Display.Size = new System.Drawing.Size(465, 67);
             this.Display.TabIndex = 22;
             this.Display.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
+            // Display1
+            // 
+            this.Display1.Font = new System.Drawing.Font("Ebrima", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.Display1.Location = new System.Drawing.Point(244, 11);
+            this.Display1.Multiline = true;
+            this.Display1.Name = "Display1";
+            this.Display1.Size = new System.Drawing.Size(244, 40);
+            this.Display1.TabIndex = 23;
+            this.Display1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(555, 490);
+            this.ClientSize = new System.Drawing.Size(507, 500);
+            this.Controls.Add(this.Display1);
             this.Controls.Add(this.Display);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button11);
@@ -307,6 +319,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Form1";
             this.Text = "+";
             this.ResumeLayout(false);
@@ -336,5 +349,6 @@
         private Button bt1;
         private Button button5;
         private TextBox Display;
+        private TextBox Display1;
     }
 }
